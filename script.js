@@ -3,5 +3,5 @@ function openLeft() {
 }
 
 function openRight() {
-  window.location.href = "https://elias-baumann.github.io/Sweat-Smile-2/";
+  window.location.href = "https://elias-baumann.github.io/Sweat-Smile2//";
 }
