@@ -32,10 +32,16 @@ html {
 
 #left-button {
   background-color: #1f555c;
-  color: white;
 }
 
 #right-button {
   background-color: #f15152;
-  color: white;
 }
+
+.svg-icon {
+  height: 20vh;
+  width: auto;
+}
+
+/* #1f555c; */
+/* #f15152; */
